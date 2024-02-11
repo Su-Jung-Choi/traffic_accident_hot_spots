@@ -8,8 +8,7 @@ I executed the code in Databricks Community Edition.
 
 *Project Files:
 
-1. extracted_data.csv: This file was derived from the original US traffic accidents dataset to reduce data size, containing 1,000,000 rows and 46 columns. The data was shuffled and randomly selected before extraction.
-
+1. sampling_splitting_file.ipynb: This file extracts a subset of data from the original US traffic accidents dataset, reducing its size by randomly shuffling and selecting only 1,000,000 rows.
 2. dash_and_folium.ipynb: This file includes all the code and outputs.
 
 *Original Dataset Link: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
