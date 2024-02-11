@@ -8,13 +8,13 @@ I executed the code in Databricks Community Edition.
 
 *Project Files:
 
-extracted_data.csv: This file was derived from the original US traffic accidents dataset to reduce data size, containing 1,000,000 rows and 46 columns. The data was shuffled and randomly selected before extraction.
+1. extracted_data.csv: This file was derived from the original US traffic accidents dataset to reduce data size, containing 1,000,000 rows and 46 columns. The data was shuffled and randomly selected before extraction.
 
-dash_and_folium.ipynb: This file encompasses all the code and outputs.
+2. dash_and_folium.ipynb: This file includes all the code and outputs.
 
 *Original Dataset Link: https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
-Due to file size limitations, the outputs may not render directly. Please refer to the following nbviewer link to interact with the map:
+Note: Due to file size limitations, the outputs may not render directly. Please refer to the following nbviewer link to interact with the map:
 https://nbviewer.org/github/Su-Jung-Choi/traffic_accident_hot_spots/blob/main/dash_and_folium.ipynb
 
 
