@@ -1,4 +1,4 @@
-# traffic_accident_hot_spots
+# Visualization of Traffic Accident Hot Spots on a Map
 
 After completing the IBM Data Visualization with Python course on Coursera, I undertook this project to apply the knowledge gained during the course. The project aimed to achieve two primary goals: 1) identify hot spots of traffic accidents by mapping locations using Folium and 2) create interactive data visualizations using Dash and Plotly for a detailed analysis of the yearly, monthly, daily, and hourly occurrences of traffic accidents.
 
